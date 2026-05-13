@@ -1,4 +1,4 @@
-# Retail Sales Analytics Dashboard using SQL & Power BI
+# Superstore Sales Analytics Dashboard using SQL & Power BI
 
 ## 📌 Project Overview
 
